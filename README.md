@@ -25,6 +25,6 @@ Le système a été configuré pour optimiser la vitesse de prise de commande et
 
 ### 2.3. Optimisation Mobile
 * **Affichage sur l'écran du Serveur :** Configuration d'une **Page Personnalisée (Grille)** sur l'application mobile pour afficher directement les **Catégories** comme de gros boutons (Entrée, Boissons, Sushi, etc.). Ceci élimine l'étape de sélection du menu déroulant.
-* **Sécurité Mobile :** Configuration d'un **code PIN** simple pour déverrouiller l'écran de caisse après l'ouverture de l'application.
+* **Sécurité Mobile :** Configuration d'un **code PIN** simple pour déverrouiller l'écran de **caisse** après l'ouverture de l'application.
 
 ---
