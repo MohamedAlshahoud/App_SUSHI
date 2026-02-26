@@ -18,7 +18,7 @@ Le système a été configuré pour optimiser la vitesse de prise de commande et
 | Fonctionnalité | Description |
 | :--- | :--- |
 | **Gestion des Articles** | **Création** et **structuration** complète du **menu** avec **des prix**. |
-| **Catégories** | **Création de catégories** claires (**Sushi**, **Entrée**, **Boissons**, Plateau, etc.) pour une navigation rapide. |
+| **Catégories** | **Création de catégories** claires (**Sushi**, **Entrée**, **Boissons**, **Plateau**, etc.) pour une navigation rapide. |
 | **Tickets Ouverts** | **Activé**. Permet d'ouvrir une commande pour une table et de la modifier sans paiement immédiat. Essentiel pour le service à table. |
 | **Langue du Reçu** | Français. |
 | **Personnalisation** | Configuration de l'En-tête (Nom, Adresse, Téléphone) et du Bas de page ("Merci pour votre visite...") sur le reçu. |
