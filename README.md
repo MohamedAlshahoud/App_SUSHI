@@ -1,5 +1,5 @@
 # App_SUSHI-FUJI
-Mise en service d'une application de commande (POS) avec Loyverse pour un restaurant.
+Mise en service **d'une application de commande (POS)** avec Loyverse pour un restaurant.
 
 ---
 
