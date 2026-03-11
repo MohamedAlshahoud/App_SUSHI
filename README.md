@@ -11,7 +11,7 @@ Mise en service **d'une application de commande (POS)** avec **Loyverse** pour *
 
 ### 2.1. Logiciel de Commande Mobile (Loyverse POS)
 * **Plateforme :** Application **mobile** gratuite (**Android/iOS**).
-* **Rôle Principal :** Permet la **prise de commande rapide** à la table ou au comptoir, la création de tickets ouverts et l'enregistrement des transactions.
+* **Rôle Principal :** Permet la **prise de commande rapide** à la table ou au comptoir, **la création de tickets** ouverts et l'enregistrement des transactions.
 * **Accès Sécurisé :** Les serveurs accèdent à l'application mobile via un code PIN simple pour déverrouiller l'écran et envoyer les commandes.
 
 ### 2.2. Configuration du Back Office
