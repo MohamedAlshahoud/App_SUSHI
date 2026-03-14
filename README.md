@@ -24,7 +24,7 @@ Mise en service **d'une application de commande (POS)** avec **Loyverse** pour *
 | **Personnalisation** | **Configuration** de l'En-tête (**Nom**, **Adresse**, **Téléphone**) et du Bas de page ("**Merci pour votre visite**...") sur le **reçu**. |
 
 ### 2.3. Optimisation Mobile
-* **Affichage sur l'écran du Serveur :** Configuration d'une **Page Personnalisée (Grille)** sur **l'application mobile** pour afficher directement les **Catégories** comme de gros boutons (**Entrée**, Boissons, Sushi, etc.). Ceci élimine l'étape de sélection du menu déroulant.
+* **Affichage sur l'écran du Serveur :** Configuration d'une **Page Personnalisée (Grille)** sur **l'application mobile** pour afficher directement les **Catégories** comme de gros boutons (**Entrée**, **Boissons**, Sushi, etc.). Ceci élimine l'étape de sélection du menu déroulant.
 * **Sécurité Mobile :** Configuration d'un **code PIN** simple pour déverrouiller l'écran de **caisse** après l'ouverture de l'application.
 
 ---
