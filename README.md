@@ -21,7 +21,7 @@ Mise en service **d'une application de commande (POS)** avec **Loyverse** pour *
 | **Catégories** | **Création de catégories** claires (**Sushi**, **Entrée**, **Boissons**, **Plateau**, **etc**.) pour une navigation rapide. |
 | **Tickets Ouverts** | **Activé**. Permet d'ouvrir **une commande** pour une table et de **la modifier** sans paiement immédiat. Essentiel pour **le service à table**. |
 | **Langue du Reçu** | **Français**. |
-| **Personnalisation** | **Configuration** de l'En-tête (**Nom**, Adresse, Téléphone) et du Bas de page ("Merci pour votre visite...") sur le reçu. |
+| **Personnalisation** | **Configuration** de l'En-tête (**Nom**, **Adresse**, Téléphone) et du Bas de page ("Merci pour votre visite...") sur le reçu. |
 
 ### 2.3. Optimisation Mobile
 * **Affichage sur l'écran du Serveur :** Configuration d'une **Page Personnalisée (Grille)** sur l'application mobile pour afficher directement les **Catégories** comme de gros boutons (Entrée, Boissons, Sushi, etc.). Ceci élimine l'étape de sélection du menu déroulant.
