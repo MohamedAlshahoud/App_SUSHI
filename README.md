@@ -1,4 +1,4 @@
-# App_SUSHI-FUJI
+# App_SUSHI
 Mise en service **d'une application de commande (POS)** avec **Loyverse** pour **un restaurant**.
 
 ---
